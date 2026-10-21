@@ -14,4 +14,4 @@ This repository contains the source for Will McBay's personal resume website. It
 
 - `index.html` contains the resume content and links to contact and professional profiles.
 - `style.css` defines the responsive two-column presentation and print-friendly visual styling.
-- The site is hosted on GitHub Pages and uses CI/CD to deploy updates whenever changes are pushed to the `Main` branch.
+- The site is hosted on GitHub Pages and uses CI/CD to deploy updates whenever changes are pushed to the `main` branch.
