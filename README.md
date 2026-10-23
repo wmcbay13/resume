@@ -6,7 +6,7 @@ This repository contains the source for Will McBay's personal resume website. It
 
 - Professional summary as a cloud applications, infrastructure, and site reliability engineer
 - Work experience from IT support and systems administration through engineering management and cloud architecture
-- Experience with AWS, Google Cloud, Terraform, Kubernetes, Docker, CI/CD, observability, and infrastructure automation
+- Experience with AWS, Azure, Google Cloud, Terraform, Kubernetes, Docker, CI/CD, observability, and infrastructure automation
 - Industry certifications, including AWS, Google Cloud, Terraform, and JAMF credentials
 - Education and professional contact links, including GitHub, LinkedIn, and email
 
